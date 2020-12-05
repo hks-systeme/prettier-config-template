@@ -1,0 +1,15 @@
+{
+  "name": "prettier-config-template",
+  "version": "1.0.0",
+  "description": "git ",
+  "keywords": ["prettier", "configuration", "code-formatter"],
+  "author": {
+    "name": "Hendrik Legge",
+    "email": "hendirk.legge@themepoint.de",
+    "url": ""
+  },
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.2.1"
+  }
+}
