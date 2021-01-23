@@ -21,4 +21,5 @@ If you use MAKE you can run the formatter with the included makefile
 ```sh
 $ make install
 $ make coding-standards
+$ make check-coding-standards
 ```
