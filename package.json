@@ -2,7 +2,11 @@
   "name": "prettier-config-template",
   "version": "1.0.0",
   "description": "git ",
-  "keywords": ["prettier", "configuration", "code-formatter"],
+  "keywords": [
+    "prettier",
+    "configuration",
+    "code-formatter"
+  ],
   "author": {
     "name": "Hendrik Legge",
     "email": "hendirk.legge@themepoint.de",
@@ -11,5 +15,8 @@
   "license": "MIT",
   "dependencies": {
     "prettier": "^2.2.1"
+  },
+  "devDependencies": {
+    "prettier-plugin-twig-melody": "^0.4.6"
   }
 }
